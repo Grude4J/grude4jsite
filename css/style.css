@@ -1,0 +1,22 @@
+#logo {
+  border: 2px solid black;
+  padding: 25px;
+  background: url(.\img\logoGrude4J.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+#title {
+  text-align:center;
+  text-align: center;
+}
+
+.col-4 {
+    padding: 0;
+}
+
+.img-responsive {
+    max-height: 150px;
+    max-width: 150px;
+}
+
