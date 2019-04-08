@@ -1599,6 +1599,14 @@ a.read-more:hover{
   opacity: .8;
 }
 
+.post-pre-bottom{
+    border-top: 1px solid #eeeeee;
+    padding-top: 10px;
+    margin-top: 20px;
+    margin: 20px -20px 0;
+    padding: 20px 20px 0;
+  }
+
 .post-bottom{
   border-top: 1px solid #eeeeee;
   padding-top: 10px;
@@ -2588,7 +2596,7 @@ span.stButton_gradient,
 
 /* Additionnal styles */
 .video-slider {
-    width: 100%;
+    max-width: 560px;
     height: 20em;
     background: #444;
     position: relative;
