@@ -3,4 +3,4 @@ For more details, access: [Grudepb4J community web site](https://grude4j.github.
 
 References:
 * Usando https://formspree.io/ para envio de e-mails;
-* Usando [Triangle template](https://themehunt.com/item/1524992-triangle-free-responsive-creative-template como template web.
+* Usando [Triangle template](https://themehunt.com/item/1524992-triangle-free-responsive-creative-template) como template web.
