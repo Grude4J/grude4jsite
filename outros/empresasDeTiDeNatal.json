@@ -1,0 +1,33 @@
+{
+    "ecosistema": "Empresas de TI de João Pessoa",
+    "empresas": [
+        {
+            "title": "CTSI Soluções em Tecnologia",
+            "location": {
+                "lat": -5.8728587,
+                "lng": -35.1858349
+            },
+            "links": [{"nome":"site", "url": "http://ctsi.com.br"}],
+            "caracteristicas": [
+                "automação comercial",
+                "soluções em TEF",
+                "assesoria tecnológica"
+            ]
+        },
+        {
+            "title": "ESIG Software e Consultoria em TI",
+            "location": {
+                "lat": -5.8312488,
+                "lng": -35.2061746
+            },
+            "links": [
+                {"nome":"site", "url": "https://esig.com.br"},
+                {"nome":"trabalhe conosco", "url": "https://esig.com.br/portalsig/trabalhe-conosco/"}
+            ],
+            "caracteristicas": [
+                "java",
+                ".net"
+            ]
+        }
+    ]
+}
