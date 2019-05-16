@@ -1,0 +1,151 @@
+
+  #team-section-content {
+    max-width: 410px;
+    margin-right: 14px;
+    margin-left: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .team-member-img {
+    width: 100%;
+    object-fit: cover
+  }
+  
+  .team-member-color-layer {
+    background-color: #040032aa;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .team-member-container {
+    padding: 0;
+    cursor: pointer;
+  }
+  
+  .team-member-desc {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #FA5822;
+    max-height: 50%;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    line-height: 1.2;
+    display: none;
+  }
+  
+  .team-member-name {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: white;
+    width: 100%;
+    display: block;
+    margin-bottom: 3px;
+  }
+  
+  .team-member-job {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: white;
+    width: 100%;
+    display: block;
+  }
+  
+  .team-member-container:hover .team-member-color-layer {
+    display:none;
+  }
+  
+  .team-member-container:hover .team-member-desc {
+    min-height: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .team-row {
+    max-width: 300px;
+  }
+  
+  @media (min-width: 360px) {
+    .team-member-name {
+      font-size: 13px;
+    }
+  }
+  
+  
+  
+  @media (min-width: 436px) {
+    #team-section-content {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  
+    .team-member-name {
+      font-size: 12px;
+    }
+  }
+  
+  @media (min-width: 576px) {
+  
+    #team-section-content {
+      max-width: 100%;
+    }
+  
+    .team-row {
+      max-width: 500px;
+    }
+  
+    .team-member-name {
+      font-size: 14px;
+    }
+  
+
+  
+  }
+  
+  @media (min-width: 768px) {
+    #team-section-content {
+      max-width: 620px;
+    }
+  
+    .team-member-name {
+      font-size: 14px;
+    }
+  
+
+  
+    .team-images-row {
+      /* padding-left: 24px;
+      padding-right: 24px; */
+    }
+    
+  }
+    
+  @media (min-width: 992px) {
+  
+    #clients-section-content,
+    #team-section-content {
+      max-width: 750px;
+    }
+  
+
+  
+    .team-row {
+      max-width: 625px;
+    }
+  
+  }
+  
