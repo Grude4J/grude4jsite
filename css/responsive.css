@@ -586,4 +586,20 @@
         font-size: 10px;
         padding: 12px 11px;
     }
+    
 }
+
+.navBarFixa {
+    background-color: white;
+}
+
+.conteudo {
+    position: relative;
+    top: 155px;
+}
+
+#header{
+    margin-bottom: 0;
+    padding: 10px 0 10px 0;
+  }
+  

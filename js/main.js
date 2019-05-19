@@ -139,3 +139,11 @@ jQuery(function($) {'use strict';
 
 
 });
+
+function clickLink(link) {
+    var secao = $(JSON.stringify(link).substring(JSON.stringify(link).indexOf('#'), JSON.stringify(link).length - 1))[0];
+
+    window.scrollTo(0, secao.offsetParent.offsetTop); 
+
+    secao = null;
+}

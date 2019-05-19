@@ -24,9 +24,10 @@
 </head><!--/head-->
 
 <body>
+    <nav id="navbar-example2" class="navbar navbar-fixed-top navBarFixa">
 	<header id="header">      
         <div class="container">
-            <A name="homeSecao">
+            <A>
                 <div class="row">
                     <div class="col-sm-12 overflow">
                         <div class="social-icons pull-right">
@@ -43,26 +44,27 @@
                         margin-left: auto;
                         margin-right: auto;
                         width: 100%;
-                        max-width: 425px" alt="logo"  class="img-responsive" >
+                        max-width: 300px" alt="logo"  class="img-responsive" >
                 </div>
                 <div class="row">
                     <div class="col-sm-12 text-center">
-                        <a href="#homeSecao"    style = "white-space:PRE">  Home   </a>
-                        <a href="#sobreSecao"   style = "white-space:PRE">  Sobre  </a>
-                        <a href="#eventosSecao" style = "white-space:PRE">  Eventos</a>
-                        <a href="#membrosSecao" style = "white-space:PRE">  Membros</a>
-                        <a href="#mercadoSecao" style = "white-space:PRE">  Mercado</a>
-                        <a href="#contatoSecao" style = "white-space:PRE">  Contato</a>
+                        <a href="#sobreSecao"   onclick="clickLink(this.href);return false;" style = "white-space:PRE">  Home   </a>
+                        <a href="#sobreSecao"   onclick="clickLink(this.href);return false;" style = "white-space:PRE">  Sobre  </a>
+                        <a href="#eventosSecao" onclick="clickLink(this.href);return false;" style = "white-space:PRE">  Eventos</a>
+                        <a href="#membrosSecao" onclick="clickLink(this.href);return false;" style = "white-space:PRE">  Membros</a>
+                        <a href="#mercadoSecao" onclick="clickLink(this.href);return false;" style = "white-space:PRE">  Mercado</a>
+                        <a href="#contatoSecao" onclick="clickLink(this.href);return false;" style = "white-space:PRE">  Contato</a>
                     </div>
                 </div>
             </A>
         </div>
     </header>
-
+</nav>
+<div id="conteudo" class="container conteudo">
     <section id="page-breadcrumb">
         <div class="vertical-center">
                 <div class="container">
-                <A name="sobreSecao">
+                <A id="sobreSecao" name="sobreSecao">
                     <div class="row">
                         <div class="action">
                             <div class="col-sm-12">
@@ -149,7 +151,7 @@
      <section id="page-breadcrumb">
         <div class="vertical-center">
                 <div class="container">
-                <A name="eventosSecao">
+                <A id="eventosSecao" name="eventosSecao">
                     <div class="row">
                         <div class="action">
                             <div class="col-sm-12">
@@ -380,7 +382,7 @@
     <section id="page-breadcrumb">
         <div class="vertical-center">
                 <div class="container">
-                <A name="membrosSecao">
+                <A id="membrosSecao" name="membrosSecao">
                     <div class="row">
                         <div class="action">
                             <div class="col-sm-12">
@@ -430,7 +432,7 @@
     <section id="page-breadcrumb">
         <div class="vertical-center">
                 <div class="container">
-                <A name="mercadoSecao">
+                <A id="mercadoSecao" name="mercadoSecao">
                     <div class="row">
                         <div class="action">
                             <div class="col-sm-12">
@@ -461,7 +463,7 @@
     <section id="page-breadcrumb">
         <div class="vertical-center">
             <div class="container">
-                <A name="contatoSecao">
+                <A id="contatoSecao" name="contatoSecao">
                     <div class="row">
                         <div class="action">
                             <div class="col-sm-12">
@@ -516,6 +518,7 @@
             </div>
         </div>
     </footer>
+</div>
     <!--/#footer-->
 
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
