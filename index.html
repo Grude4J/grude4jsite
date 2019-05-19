@@ -382,15 +382,17 @@
     <section id="page-breadcrumb">
         <div class="vertical-center">
                 <div class="container">
-                <A id="membrosSecao" name="membrosSecao">
+                <div id="membrosSecao" name="membrosSecao">
                     <div class="row">
                         <div class="action">
                             <div class="col-sm-12">
-                                <h1 class="title">Membros (área em construção...)</h1>
+                                <h1 class="title">Membros</h1>
+                                <strong class="title">Lista dos <B>Desenvolvedores Java</B> membros da Grude4j, incluindo contato</strong><BR>
+                                Alguma informação faltando ou incorreta? Informe-nos via seção Contato.
                             </div>
                         </div>
                     </div>
-                </A>
+                </div>
             </div>
         </div>
     </section>
@@ -400,26 +402,10 @@
         <div class="section-wrapper">
             <div id="team-section-content" class="section-content">
                 <div class="container">
-                    <div class="row team-row">
-                        <div class="col-12 col-lg-10 offset-lg-1">
-                            <div class="team-images-row row">
-                                <div class="team-member-container col-6 col-sm-3">
-                                    <div class="team-member-color-layer"> </div>
-                                    <div class="team-member-desc">
-                                    <span class="team-member-name">Membro 001</span>
-                                    <span class="team-member-job">Cargo</span>
-                                    </div>
-                                    <img class="team-member-img" src="https://via.placeholder.com/150" width="100%" height="100%"/>
-                                </div>
-
-                                <div class="team-member-container col-6 col-sm-3">
-                                    <div class="team-member-color-layer"> </div>
-                                    <div class="team-member-desc">
-                                    <span class="team-member-name">Membro 002</span>
-                                    <span class="team-member-job">Cargo 002</span>
-                                    </div>
-                                    <img class="team-member-img" src="https://via.placeholder.com/150" width="100%" height="100%"/>
-                                </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <input type="text" id="filtraElemento" onkeyup="filtraMembros()" placeholder="Filtrar por nome.." title="Digite um nome">
+                            <div id="membrosContainer" class="team-images-row row">
                             </div>
                         </div>
                     </div>
@@ -432,15 +418,17 @@
     <section id="page-breadcrumb">
         <div class="vertical-center">
                 <div class="container">
-                <A id="mercadoSecao" name="mercadoSecao">
+                <div id="mercadoSecao" name="mercadoSecao">
                     <div class="row">
                         <div class="action">
                             <div class="col-sm-12">
                                 <h1 class="title">Mercado</h1>
+                                <strong class="title">Lista de participantes do ecosistema <B>Java</B> de João Pessoa</strong><BR>
+                                Sentiu falta de alguma empresa? Informe-nos via opção "Sugerir novos participantes no ecosistema".
                             </div>
                         </div>
                     </div>
-                </A>
+                </div>
             </div>
         </div>
     </section>
@@ -526,5 +514,6 @@
     <script type="text/javascript" src="js/lightbox.min.js"></script>
     <script type="text/javascript" src="js/wow.min.js"></script>
     <script type="text/javascript" src="js/main.js"></script>   
+    <script type="text/javascript" src="js/membros.js"></script> 
 </body>
 </html>

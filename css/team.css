@@ -14,7 +14,7 @@
   }
   
   .team-member-color-layer {
-    background-color: #040032aa;
+    
     position: absolute;
     top: 0;
     left: 0;
@@ -32,7 +32,7 @@
     bottom: 0;
     left: 0;
     width: 100%;
-    background-color: #FA5822;
+    background-color: gray;
     max-height: 50%;
     padding-right: 8px;
     padding-left: 8px;
@@ -47,7 +47,7 @@
     font-style: normal;
     font-weight: bold;
     font-size: 12px;
-    color: white;
+    color: black;
     width: 100%;
     display: block;
     margin-bottom: 3px;
@@ -58,7 +58,7 @@
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
-    color: white;
+    color: black;
     width: 100%;
     display: block;
   }
@@ -147,5 +147,21 @@
       max-width: 625px;
     }
   
+  }
+  
+  div span a {
+      color: black;
+  } 
+  
+
+  #filtraElemento {
+    
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
   }
   
