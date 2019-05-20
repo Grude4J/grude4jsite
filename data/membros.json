@@ -26,12 +26,12 @@
         "linkedin": "https://www.linkedin.com/in/gregoriomelo/",
         "getToKnowGrude4JPeople": "https://youtu.be/nzHDTuWmi4E",
         "foto": "https://avatars1.githubusercontent.com/u/223146?s=460&v=4"
-    }
-    ,
+    },
     {
-        "nome": "Abraão Állysson"
-    }
-    ,
+        "nome": "Abraão Állysson",
+        "linkedin": "https://www.linkedin.com/in/abraaohonorio/",
+        "foto": "https://avatars2.githubusercontent.com/u/15929970?s=460&v=4"
+    },
     {
         "nome": "Alan Soares"
     },
@@ -42,16 +42,19 @@
         "nome": "André Costa"
     },
     {
-        "nome": "Andre Mota"
+        "nome": "Andre Mota",
+        "linkedin": "https://www.linkedin.com/in/carlo-andre-de-sousa-mota-b4a04752/"
     },
     {
-      "nome": "Antonini Matias"
+      "nome": "Antonini Matias",
+      "linkedin": "https://www.linkedin.com/in/antoninimatias/"
     },
     {
       "nome": "Arthur Vasconcellos"
     },
     {
-      "nome": "Carlos Emanuel"
+      "nome": "Carlos Emanuel",
+      "linkedin": "https://www.linkedin.com/in/carlosemanuel/"
     },
     {
       "nome": "Cazuza Neto"
@@ -114,7 +117,9 @@
       "nome": "Jakson Rodrigues"
     },
     {
-      "nome": "Jhonatta Santos"
+      "nome": "Jhonatta Santos",
+      "linkedin": "https://www.linkedin.com/in/jhonattasantos/",
+      "foto": "https://avatars2.githubusercontent.com/u/8683103?s=460&v=4"
     },
     {
       "nome": "João Dantas"
@@ -183,7 +188,9 @@
       "nome": "Rafael Matheus Pereira de Castro"
     },
     {
-      "nome": "Ramon Pereira"
+      "nome": "Ramon Pereira",
+      "linkedin": "https://www.linkedin.com/in/ramonpfsousa/",
+      "foto": "https://avatars0.githubusercontent.com/u/4145931?s=460&v=4"
     },
     {
       "nome": "Ramon Sousa Sarmento"
@@ -195,16 +202,22 @@
       "nome": "Ricardo Belo"
     },
     {
-      "nome": "Rimenes"
+      "nome": "Rimenes Ribeiro",
+      "linkedin": "https://www.linkedin.com/in/rimenes/",
+      "foto": "https://avatars0.githubusercontent.com/u/84035?s=460&v=4"
     },
     {
       "nome": "Rodrigo Barbosa"
     },
     {
-      "nome": "Rodrigo Fujioka"
+      "nome": "Rodrigo Fujioka",
+      "linkedin": "https://www.linkedin.com/in/rodrigofujioka/",
+      "foto": "https://avatars2.githubusercontent.com/u/4412957?s=460&v=4"
     },
     {
-      "nome": "Rodrigo Rebouças de Almeida"
+      "nome": "Rodrigo Rebouças de Almeida",
+      "linkedin": "https://www.linkedin.com/in/rodrigorcom/",
+      "foto": "https://avatars2.githubusercontent.com/u/288272?s=460&v=4"
     },
     {
       "nome": "Rogério Nunes"
