@@ -1,0 +1,13 @@
+- Título da palestra: Conheça o projeto Lombok e diminua a verbosidade do seu código Java
+
+- Subtítulo da palestra: Todo mundo sabe que o Java é um pouco verboso, mas e se houvesse uma biblioteca que aumentasse a produtividade e diminuísse o código boilerplate? Pois bem, o projeto Lombok foi criado com esse foco. Conheça essa biblioteca e tenha bons motivos para incluí-la em seus projetos.
+
+- Nome: Wandesson Soares (Britto Jr.)
+
+- Descrição pessoal: Wandesson Soares é Analista Desenvolvedor Java na Conductor. Já teve passagens por TRE-PB, PMJP, ETC-JP, Unimed NNE e Infomed Benner. Entusiasta das comunidades de TI em João Pessoa. Não tem linguagem de estimação. PES é melhor que FIFA.
+
+- Cargo: Analista Desenvolvedor
+
+- Redes sociais:
+* LinkedIn: https://www.linkedin.com/in/wandesson-soares-79808a6b
+* GitHub: github.com/wandessonsoares

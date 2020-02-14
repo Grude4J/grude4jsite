@@ -1,0 +1,14 @@
+- Título da palestra (1-2 linhas): Desenvolvimento e entregas de qualidade com Gitlab-CI e Spring-boot
+
+- Subtítulo da palestra (para dar contexto, 3-5 linhas): Introdução às práticas de Contínuos Integration (CI) utilizando o Gitlab com uma aplicação Spring-boot a partir do zero.
+
+- Nome (de preferência nome e sobrenome pra ficar curto): Achiles Luciano
+
+- Descrição pessoal (como você se descreveria para os presentes lá na hora da apresentação): Achiles Luciano é Analista de Desenvolvimento e Qualidade de Software. Mestre em Ciência da Computação pela UFCG e atuou principalmente em projetos de transações financeiras utilizando linguagens como Java e Javascript.
+
+- Cargo (as vezes a pessoa tem mais de um papel hoje em dia, dai qual cargo colocar?): Analista de Qualidade de Software Sr.
+
+- Foto (pode ser do Linkedin ou github): ?
+
+- Redes sociais para compartilhamento (Linkedin, github, twitter): ? LinkedIn: https://www.linkedin.com/in/achiles-pedro-071b1026/
+GitHub: https://github.com/achilespcl
