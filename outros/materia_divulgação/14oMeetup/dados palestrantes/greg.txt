@@ -1,0 +1,14 @@
+- Título da palestra (1-2 linhas): Introdução ao TDD com Java
+
+- Subtítulo da palestra (para dar contexto, 3-5 linhas): Mão na massa para começar a praticar desenvolvimento guiado por testes. Aqui usaremos Java, mas a mentalidade pode ser aproveitada tranquilamente em outras tecnologias.
+
+- Nome (de preferência nome e sobrenome pra ficar curto): Gregório Melo
+
+- Descrição pessoal (como você se descreveria para os presentes lá na hora da apresentação): Gregório é consultor de desenvolvimento de software na ThoughtWorks. Já trabalhou muito com JVM na vida e hoje foca em infraestrutura nas nuvens e contêineres. Autor do livro Programação Funcional: uma introdução em Clojure.
+
+- Cargo (as vezes a pessoa tem mais de um papel hoje em dia, dai qual cargo colocar?): Consultor de desenvolvimento de software
+
+- Foto (pode ser do Linkedin ou github): https://secure.gravatar.com/avatar/3fb20feb87a9e2f521b87b766fb39e39?size=400
+
+- Redes sociais para compartilhamento (Linkedin, github, twitter):  LinkedIn: https://www.linkedin.com/in/gregoriomelo/
+GitHub: https://github.com/gregoriomelo
