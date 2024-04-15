@@ -1,0 +1,24 @@
+- Título da palestra : 
+Conceitos de Java microservices utilizando GraalVM e Quarkus.
+
+
+- Subtítulo da palestra : 
+Apresentação do framework da RedHat desmentindo a má fama de lentidão Java.
+
+
+- Nome : João Guilherme 
+
+- Descrição pessoal : 
+Tenho 22 anos, sou graduado em ciência da computação, pelo o UNIPÊ e me considero um entusiasta da tecnologia, amante de jogos(pc>console) , fascinado por sistemas open source e devoto convicto da cultura DevOps. Atualmente curso a pós-graduação em Desenvolvimento web e não acredito que exista escolha saudável de linguagem de estimação, apesar disso, gosto muito de estudar e trabalhar com Java
+
+
+- Cargo : Estudante de pós-graduação.
+
+- Foto 
+
+
+- Redes sociais para compartilhamento : 
+https://www.linkedin.com/in/joão-guilherme-reis-317463187/
+
+GitHub: 
+https://github.com/jgjoao
